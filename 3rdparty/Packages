@@ -1,0 +1,89 @@
+Package: enigma2-plugin-extensions-ipchecker
+Version: 004
+Section: Extensions
+Architecture: all
+Maintainer: dsayers
+MD5Sum: a31cbb234b395ba355bc25de35a4d903
+SHA256sum: 98f23d310c80d04f8871cfdbcaf5cad8bf4af506b07d400d2c3d672c073aa13e
+Size: 5082
+Filename: enigma2-plugin-extensions-ipchecker_004_all.ipk
+Description: plugin to check your boxes external IP adress
+Priority: optional
+
+Package: enigma2-plugin-extensions-netspeedtest
+Version: 2.1.5
+Section: extra
+Architecture: all
+Maintainer: mfaraj57 <@tunisia-sat.com>
+MD5Sum: 2838bce12a3b029562babd615f5e3ddc
+SHA256sum: 9ca95faf2416e514bc955eeaa4124f03fb7d4dccb725f491eade829726c8e340
+Size: 275686
+Filename: enigma2-plugin-extensions-netspeedtest_2.1.5_all.ipk
+Source: file://netspeedtest
+Description: Net speed Test
+OE: enigma2-plugin-extensions-netspeedtest
+HomePage: http://www.tunisia-sat.com
+License: open
+Priority: optional
+
+Package: enigma2-plugin-extensions-screengrabber
+Version: 2.6
+Section: extra
+Architecture: all
+Maintainer: mFaraj <mfaraj57@gmail.com>
+MD5Sum: 560fa82f0aefe0d3b3431bd64d824917
+SHA256sum: c2d8e3be738a70707c4b720d27fe4a377a5b74c3c2c9f2ca000092c868cefffe
+Size: 113484
+Filename: enigma2-plugin-extensions-screengrabber_2.6_all.ipk
+Source: ./
+Description: take screenshot of enigma2 box screen for python 3
+HomePage: tunisia-sat.com,dreamoem.com
+Priority: optional
+
+Package: enigma2-plugin-extensions-skyrecorder
+Version: 2.1.3-py3
+Depends: libsqlite3-0, python3-sqlite3, python3-html, python3-json, python3-requests
+Provides: enigma2-plugin-extensions-skyrecorder
+Replaces: enigma2-plugin-extensions-skyanytime
+Conflicts: enigma2-plugin-extensions-skyanytime
+Section: misc
+Architecture: all
+Maintainer: einfall greysky matzze2000 dre Hilfsbereit murxer Fitz'
+MD5Sum: 5697303ba813119d5308fb47ff7a17c4
+SHA256sum: 20b0b15b83ee8d3a0dcdce2d72ac9d707d1e05fc44731078a02884c512bdb4b5
+Size: 392230
+Filename: enigma2-plugin-extensions-skyrecorder_2.1.3-py3_all.ipk
+Description: SkyRecorder - a plugin to add automatically timers for new SKY broadcasts - using API to download coverfiles from TMDB - change to FHD Skins
+HomePage: https://www.opena.tv/openatv-7-0-py3-9-openssl-1-1-1-entwicklung/56627-skyrecorder-fuer-python-3-a.html
+Priority: optional
+
+Package: enigma2-plugin-extensions-sundtekcontrolcenter
+Version: 20210624-2
+Section: extra
+Architecture: all
+Maintainer: Sundtek
+MD5Sum: 5734782b58ca686e87e4a039aa7d5a30
+SHA256sum: c5517a43b42fa92175450c9c080d57e98417912b1e8f9154c4bd61089454155c
+Size: 97492
+Filename: enigma2-plugin-extensions-sundtekcontrolcenter_20210624-2_all.ipk
+Source: none
+Description: control sundtek usb stick from enigma2
+OE: sundtekcontrolcenter-20210624-2
+HomePage: http://support.sundtek.de
+Priority: optional
+
+Package: enigma2-plugin-extensions-xcplugin-forever
+Version: 2.2
+Section: extra
+Architecture: all
+Maintainer: Lululla <ekekaz@gmail.com>
+MD5Sum: f6f01c8b6960db11dffbaac5cf68a958
+SHA256sum: cfb27eaa95a9de3b25b0b64d1d4d43306cf6e3921cb7901b5dc90cceaf310954
+Size: 1018470
+Filename: enigma2-plugin-extensions-xcplugin-forever_2.2_all.ipk
+Source: none
+Description: plugin, for the free streaming.
+OE: OE2.0
+HomePage: *
+Priority: optional
+
